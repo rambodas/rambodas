@@ -31,7 +31,7 @@ Welcome to my GitHub! I design intelligent data systems that solve real-world bu
 ### 🧰 Tools/Analytics workstreams I love
 
 `Python` · `Pandas` · `SQL` · `Streamlit` · `OpenAI` · `gpt4all` · `LLaMa.cpp` · `Jupyter`  
-`A/B Testing` · `Product Analytics` · `Forecasting` · `Data Storytelling`  
+`A/B Testing` · `Risk Analytics`,`Product Analytics` · `Forecasting` · `Data Storytelling`  
 
 ---
 
