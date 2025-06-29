@@ -10,7 +10,7 @@ Welcome to my GitHub! I design intelligent data systems that solve real-world bu
 ### 🔧 What I Work On
 
 - 🧠 **AI-Powered Dashboards**: Interactive analytics apps using GPT-4, GPT4All, and Streamlit
-- 📊 **Growth Analytics**: Cohort analysis, retention deepdives, and revenue drivers
+- 📊 **Growth Analytics**: Cohort analysis, retention deep dives, and revenue drivers
 - ⚙️ **ML Ops & Experiments**: A/B testing design, model deployment, and metric frameworks
 
 ---
@@ -25,7 +25,7 @@ Welcome to my GitHub! I design intelligent data systems that solve real-world bu
 
 ---
 
-### 🧰 Tools I Use
+### 🧰 Tools/Analytics workstreams I love
 
 `Python` · `Pandas` · `SQL` · `Streamlit` · `OpenAI` · `gpt4all` · `LLaMa.cpp` · `Jupyter`  
 `A/B Testing` · `Product Analytics` · `Forecasting` · `Data Storytelling`  
@@ -34,6 +34,6 @@ Welcome to my GitHub! I design intelligent data systems that solve real-world bu
 
 ### 💬 Let's Connect
 
-📍 Based in India 🇮🇳  
+📍 Based out of Bengaluru (Bangalore), India
 🔗 [LinkedIn](https://www.linkedin.com/in/anurag-das-893175b6/)  
 🧠 Always exploring the intersection of AI, strategy, and storytelling.
