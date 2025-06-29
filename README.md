@@ -20,8 +20,11 @@ Welcome to my GitHub! I design intelligent data systems that solve real-world bu
 - [`offline-ai-dashboard`](https://github.com/rambodas/offline-ai-dashboard)  
   Build business insights using local LLMs like GPT4All (Mistral 7B GGUF). No internet or API needed.
 
-- [`openai-growth-dashboard`](https://github.com/rambodas/openai-growth-dashboard)  
+- [`openai-growth-dashboard`](https://github.com/rambodas/ai_dashboard_openai_paidAPI)  
   GPT-4 powered interactive dashboard to analyze weekly growth/degrowth. Built with Streamlit.
+
+ - [`llm-kpi-AI-anomaly-detection`](https://github.com/rambodas/llm-kpi-AI-anomaly-detection)  
+  Build anomaly detection dashboard using local LLMs like GPT4All (Mistral 7B GGUF). No internet or API needed.
 
 ---
 
