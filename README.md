@@ -26,6 +26,8 @@ Welcome to my GitHub! I design intelligent data systems that solve real-world bu
  - [`llm-kpi-AI-anomaly-detection`](https://github.com/rambodas/llm-kpi-AI-anomaly-detection)  
   Build anomaly detection dashboard using local LLMs like GPT4All (Mistral 7B GGUF). No internet or API needed.
 
+ - [`quantamental-stock-screener`](https://github.com/rambodas/quantamental-stock-screener)  
+   This tool analyzes Nifty 500 stocks using a hybrid of quantitative (technical indicators) and fundamental (financial ratios) analysis
 ---
 
 ### 🧰 Tools/Analytics workstreams I love
